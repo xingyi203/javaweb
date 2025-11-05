@@ -16,3 +16,7 @@ npm install
 npm run serve
 
 <img width="1468" height="860" alt="image" src="https://github.com/user-attachments/assets/4addefc0-2cb2-4a58-968d-31a1087bfd8a" />
+
+
+
+-- 项目来自网络 自己只是记录自己的运行过程
